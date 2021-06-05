@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbTImKzY3gHoxk/46KVgxuPbI9DEr8D1+0wU1MaDTG/cYJEsNN0KQEgR4sO+azyP4+PEHDKXbYHSAfK4r00/0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Com\\Desktop\\Projects\\C-Sharp-RockPaperScissors-Game Vol.2\\BojanDamchevski.RockPaperScissorsGame.Solution\\RockPaperScissors.Service\\RockPaperScissors.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Com\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
